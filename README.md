@@ -11,7 +11,6 @@ The Pima Indians Diabetes Dataset from Kaggle: https://www.kaggle.com/uciml/pima
 - `data/`: Contains the dataset.
 - `notebooks/`: Jupyter notebooks for data exploration and model development.
 - `models/`: Serialized trained models.
-- `utils/`: Utility scripts for preprocessing and helper functions.
 
 ## How to Run
 
