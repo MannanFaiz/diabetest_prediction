@@ -12,6 +12,21 @@ The Pima Indians Diabetes Dataset from Kaggle: https://www.kaggle.com/uciml/pima
 - `notebooks/`: Jupyter notebooks for data exploration and model development.
 - `models/`: Serialized trained models.
 
+## Technologies Used
+
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- Jupyter Notebook
+- Joblib
+
+## Performance Metrics
+
+- Accuracy
+- Precision, Recall, F1-score
+- Confusion Matrix
+
 ## How to Run
 
 1. Install dependencies: `pip install -r requirements.txt`
